@@ -11,15 +11,23 @@ Unit tests:
 ![image](https://github.com/587851/DAT250md/assets/69521897/c35a396d-68d9-4e92-a4ea-fafbe20d3a4b)
 
 Production-grade Services:
-![image](https://github.com/587851/DAT250md/assets/69521897/b2b8e5d5-729b-4a80-892c-c9ab5337fb35)
+
+![image](https://github.com/587851/DAT250md/assets/69521897/cf026d9a-45a8-4e7e-9911-27b85ea49e46)
+
 
 
 ## Experiment 3
-Greetins side
+Greetings side
+
 ![image](https://github.com/587851/DAT250md/assets/69521897/fc4803fb-e165-4bc2-a6c4-5a111b62f4d0)
 
 Index side
-![Uploading image.png…]()
+
+![image](https://github.com/587851/DAT250md/assets/69521897/7e42509f-b577-49ee-bca4-87a3312e6318)
+
 
 
 ## Experiment 4
+
+![image](https://github.com/587851/DAT250md/assets/69521897/3c8c6639-bf0f-4f0c-a91a-16c558c0778b)
+
