@@ -1,5 +1,5 @@
 # Expass 7
-Link til kode: 
+Link til kode:  https://github.com/587851/DAT250Expass7
 
 ### Experiment 1: Installation
 Funket fint å laste ned. Brukte docker
